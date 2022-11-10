@@ -1,0 +1,15 @@
+D:\Projects\Design Principles\OCPDP\bin\Debug\net6.0\OCPDP.exe
+D:\Projects\Design Principles\OCPDP\bin\Debug\net6.0\OCPDP.deps.json
+D:\Projects\Design Principles\OCPDP\bin\Debug\net6.0\OCPDP.runtimeconfig.json
+D:\Projects\Design Principles\OCPDP\bin\Debug\net6.0\OCPDP.dll
+D:\Projects\Design Principles\OCPDP\bin\Debug\net6.0\OCPDP.pdb
+D:\Projects\Design Principles\OCPDP\obj\Debug\net6.0\OCPDP.csproj.AssemblyReference.cache
+D:\Projects\Design Principles\OCPDP\obj\Debug\net6.0\OCPDP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Design Principles\OCPDP\obj\Debug\net6.0\OCPDP.AssemblyInfoInputs.cache
+D:\Projects\Design Principles\OCPDP\obj\Debug\net6.0\OCPDP.AssemblyInfo.cs
+D:\Projects\Design Principles\OCPDP\obj\Debug\net6.0\OCPDP.csproj.CoreCompileInputs.cache
+D:\Projects\Design Principles\OCPDP\obj\Debug\net6.0\OCPDP.dll
+D:\Projects\Design Principles\OCPDP\obj\Debug\net6.0\refint\OCPDP.dll
+D:\Projects\Design Principles\OCPDP\obj\Debug\net6.0\OCPDP.pdb
+D:\Projects\Design Principles\OCPDP\obj\Debug\net6.0\OCPDP.genruntimeconfig.cache
+D:\Projects\Design Principles\OCPDP\obj\Debug\net6.0\ref\OCPDP.dll

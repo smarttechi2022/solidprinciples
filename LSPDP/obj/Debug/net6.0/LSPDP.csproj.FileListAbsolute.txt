@@ -1,0 +1,15 @@
+D:\Projects\Design Principles\LSPDP\bin\Debug\net6.0\LSPDP.exe
+D:\Projects\Design Principles\LSPDP\bin\Debug\net6.0\LSPDP.deps.json
+D:\Projects\Design Principles\LSPDP\bin\Debug\net6.0\LSPDP.runtimeconfig.json
+D:\Projects\Design Principles\LSPDP\bin\Debug\net6.0\LSPDP.dll
+D:\Projects\Design Principles\LSPDP\bin\Debug\net6.0\LSPDP.pdb
+D:\Projects\Design Principles\LSPDP\obj\Debug\net6.0\LSPDP.csproj.AssemblyReference.cache
+D:\Projects\Design Principles\LSPDP\obj\Debug\net6.0\LSPDP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Design Principles\LSPDP\obj\Debug\net6.0\LSPDP.AssemblyInfoInputs.cache
+D:\Projects\Design Principles\LSPDP\obj\Debug\net6.0\LSPDP.AssemblyInfo.cs
+D:\Projects\Design Principles\LSPDP\obj\Debug\net6.0\LSPDP.csproj.CoreCompileInputs.cache
+D:\Projects\Design Principles\LSPDP\obj\Debug\net6.0\LSPDP.dll
+D:\Projects\Design Principles\LSPDP\obj\Debug\net6.0\refint\LSPDP.dll
+D:\Projects\Design Principles\LSPDP\obj\Debug\net6.0\LSPDP.pdb
+D:\Projects\Design Principles\LSPDP\obj\Debug\net6.0\LSPDP.genruntimeconfig.cache
+D:\Projects\Design Principles\LSPDP\obj\Debug\net6.0\ref\LSPDP.dll

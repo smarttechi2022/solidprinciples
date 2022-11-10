@@ -1,0 +1,15 @@
+D:\Projects\Design Principles\DIPDP\bin\Debug\net6.0\DIPDP.exe
+D:\Projects\Design Principles\DIPDP\bin\Debug\net6.0\DIPDP.deps.json
+D:\Projects\Design Principles\DIPDP\bin\Debug\net6.0\DIPDP.runtimeconfig.json
+D:\Projects\Design Principles\DIPDP\bin\Debug\net6.0\DIPDP.dll
+D:\Projects\Design Principles\DIPDP\bin\Debug\net6.0\DIPDP.pdb
+D:\Projects\Design Principles\DIPDP\obj\Debug\net6.0\DIPDP.csproj.AssemblyReference.cache
+D:\Projects\Design Principles\DIPDP\obj\Debug\net6.0\DIPDP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Design Principles\DIPDP\obj\Debug\net6.0\DIPDP.AssemblyInfoInputs.cache
+D:\Projects\Design Principles\DIPDP\obj\Debug\net6.0\DIPDP.AssemblyInfo.cs
+D:\Projects\Design Principles\DIPDP\obj\Debug\net6.0\DIPDP.csproj.CoreCompileInputs.cache
+D:\Projects\Design Principles\DIPDP\obj\Debug\net6.0\DIPDP.dll
+D:\Projects\Design Principles\DIPDP\obj\Debug\net6.0\refint\DIPDP.dll
+D:\Projects\Design Principles\DIPDP\obj\Debug\net6.0\DIPDP.pdb
+D:\Projects\Design Principles\DIPDP\obj\Debug\net6.0\DIPDP.genruntimeconfig.cache
+D:\Projects\Design Principles\DIPDP\obj\Debug\net6.0\ref\DIPDP.dll

@@ -1,0 +1,15 @@
+D:\Projects\Design Principles\ISPDP\bin\Debug\net6.0\ISPDP.exe
+D:\Projects\Design Principles\ISPDP\bin\Debug\net6.0\ISPDP.deps.json
+D:\Projects\Design Principles\ISPDP\bin\Debug\net6.0\ISPDP.runtimeconfig.json
+D:\Projects\Design Principles\ISPDP\bin\Debug\net6.0\ISPDP.dll
+D:\Projects\Design Principles\ISPDP\bin\Debug\net6.0\ISPDP.pdb
+D:\Projects\Design Principles\ISPDP\obj\Debug\net6.0\ISPDP.csproj.AssemblyReference.cache
+D:\Projects\Design Principles\ISPDP\obj\Debug\net6.0\ISPDP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Design Principles\ISPDP\obj\Debug\net6.0\ISPDP.AssemblyInfoInputs.cache
+D:\Projects\Design Principles\ISPDP\obj\Debug\net6.0\ISPDP.AssemblyInfo.cs
+D:\Projects\Design Principles\ISPDP\obj\Debug\net6.0\ISPDP.csproj.CoreCompileInputs.cache
+D:\Projects\Design Principles\ISPDP\obj\Debug\net6.0\ISPDP.dll
+D:\Projects\Design Principles\ISPDP\obj\Debug\net6.0\refint\ISPDP.dll
+D:\Projects\Design Principles\ISPDP\obj\Debug\net6.0\ISPDP.pdb
+D:\Projects\Design Principles\ISPDP\obj\Debug\net6.0\ISPDP.genruntimeconfig.cache
+D:\Projects\Design Principles\ISPDP\obj\Debug\net6.0\ref\ISPDP.dll
